@@ -1,4 +1,9 @@
-### Hi there 👋
+### About me
+An undergraduate student majoring in Artificial Intelligence in Northwestern Polytechnical University, China.
+
+### Projects
+[ROS Motion Planning](https://github.com/ai-winter/ros_motion_planning) is one of projects I participated in.
+I also have some more projects under development.
 
 <!--
 **omigeft/omigeft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
