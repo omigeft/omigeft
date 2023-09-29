@@ -1,7 +1,7 @@
-### About me
+### About me 🤔
 An undergraduate student majoring in Artificial Intelligence in Northwestern Polytechnical University, China.
 
-### Projects
+### Projects 🔭
 [ROS Motion Planning](https://github.com/ai-winter/ros_motion_planning) is one of projects I participated in.
 I also have some more projects under development.
 
