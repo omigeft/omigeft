@@ -4,11 +4,11 @@ I major in Artificial Intelligence in Northwestern Polytechnical University, Chi
 
 ### Projects 🔭
 
-* [ROS Motion Planning](https://github.com/ai-winter/ros_motion_planning) (C++, ROS): Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A*, JPS, D*, LPA*, D* Lite, (Lazy)Theta*, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, Voronoi, PID, DWA, APF, LQR, MPC, Bezier, Dubins etc.
+* [ROS Motion Planning](https://github.com/ai-winter/ros_motion_planning) (C++, ROS, Rviz, Gazebo): Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A*, JPS, D*, LPA*, D* Lite, (Lazy)Theta*, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, Voronoi, PID, DWA, APF, LQR, MPC, Bezier, Dubins etc.
 
 * [Python Motion Planning](https://github.com/ai-winter/python_motion_planning) (Python): Motion planning and Navigation of AGV/AMR：Python implementation of A*, JPS, D*, LPA*, D* Lite, (Lazy)Theta*, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, Voronoi, PID, DWA, APF, LQR, MPC, Bezier, Dubins etc.
 
-* [ROS Motion Planning Visualizer (RMPV)](https://github.com/ai-winter/ros_motion_planning_visualizer): A Rviz Plugin used in path visualization and curve generation, which is helpful for qualitative experiments on path planning and curve optimization.
+* [ROS Motion Planning Visualizer (RMPV)](https://github.com/ai-winter/ros_motion_planning_visualizer) (C++, ROS, Rviz): A Rviz Plugin used in path visualization and curve generation, which is helpful for qualitative experiments on path planning and curve optimization.
 
 * [QT Chatroom](https://github.com/omigeft/QTChatroom) (C++, Qt): A desktop chatroom software implemented using QT, including server and client, using SSL encrypted TCP communication and SQLite database management system.
 
