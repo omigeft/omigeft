@@ -4,8 +4,6 @@ I major in Artificial Intelligence in Northwestern Polytechnical University, Chi
 
 ### Projects 🔭
 
-### Projects 🔭
-
 | Project | Description | Technologies | Stars |
 |---------|-------------|------------|-------|
 | [ROS Motion Planning](https://github.com/ai-winter/ros_motion_planning) | Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation. | ![](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) ![](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros) | ![Stars](https://img.shields.io/github/stars/ai-winter/ros_motion_planning?style=social) |
