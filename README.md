@@ -4,19 +4,15 @@ I major in Artificial Intelligence in Northwestern Polytechnical University, Chi
 
 ### Projects 🔭
 
-* [ROS Motion Planning](https://github.com/ai-winter/ros_motion_planning) (C++, ROS, Rviz, Gazebo): Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A*, JPS, D*, LPA*, D* Lite, (Lazy)Theta*, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, Voronoi, PID, DWA, APF, LQR, MPC, Bezier, Dubins etc.
-
-* [Python Motion Planning](https://github.com/ai-winter/python_motion_planning) (Python): Motion planning and Navigation of AGV/AMR：Python implementation of A*, JPS, D*, LPA*, D* Lite, (Lazy)Theta*, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, Voronoi, PID, DWA, APF, LQR, MPC, Bezier, Dubins etc.
-
-* [ROS Motion Planning Visualizer (RMPV)](https://github.com/ai-winter/ros_motion_planning_visualizer) (C++, ROS, Rviz): A Rviz Plugin used in path visualization and curve generation, which is helpful for qualitative experiments on path planning and curve optimization.
-
-* [QT Chatroom](https://github.com/omigeft/QTChatroom) (C++, Qt): A desktop chatroom software implemented using QT, including server and client, using SSL encrypted TCP communication and SQLite database management system.
-
-* [Chinese Clinical Terminology Standardization Task](https://github.com/omigeft/Chinese-Clinical-Terminology-Standardization-Task) (Python PyTorch): Implementing CHIP2021-Task 3 Chinese clinical terminology standardization task based on LLM, with an accuracy rate of approximately 70%.
-
-* [RVSC Medical Image Segmentation](https://github.com/omigeft/RVSC-Medical-Image-Segmentation) (Python, PyTorch): Multiple approaches for completing RVSC (Right Ventricle Segmentation Challenge), including PyTorch implementations of UNet with attention, UNet++, U2Net.
-
-* [EterPlan](https://github.com/omigeft/eterplan) (JavaScript, WeChat mimiprogram): WeChat miniprogram EterPlan is a miniprogram that uses Ebbinghaus's forgetting curve intelligence to help users learn, memorize, memorize, review, and other subjects that require a lot of memory. Developed using WeChat Cloud.
+| Project | Description | Technologies | Stars |
+|---------|-------------|------------|-------|
+| [ROS Motion Planning](https://github.com/ai-winter/ros_motion_planning) | Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation. | ![](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) ![](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros) ![](https://img.shields.io/badge/-Rviz-FFA518?style=flat&logo=rviz) ![](https://img.shields.io/badge/-Gazebo-ffffff?style=flat&logo=gazebo) | ![Stars](https://img.shields.io/github/stars/ai-winter/ros_motion_planning?style=social) |
+| [Python Motion Planning](https://github.com/ai-winter/python_motion_planning) | Motion planning and Navigation of AGV/AMR：Python implementation. | ![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) | ![Stars](https://img.shields.io/github/stars/ai-winter/python_motion_planning?style=social) |
+| [ROS Motion Planning Visualizer (RMPV)](https://github.com/ai-winter/ros_motion_planning_visualizer) | A Rviz Plugin used in path visualization and curve generation. | ![](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) ![](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros) ![](https://img.shields.io/badge/-Rviz-FFA518?style=flat&logo=rviz) | ![Stars](https://img.shields.io/github/stars/ai-winter/ros_motion_planning_visualizer?style=social) |
+| [QT Chatroom](https://github.com/omigeft/QTChatroom) | A desktop chatroom software implemented using QT. | ![](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) ![](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt) | ![Stars](https://img.shields.io/github/stars/omigeft/QTChatroom?style=social) |
+| [Chinese Clinical Terminology Standardization Task](https://github.com/omigeft/Chinese-Clinical-Terminology-Standardization-Task) | Implementing CHIP2021-Task 3 based on LLM. | ![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch) | ![Stars](https://img.shields.io/github/stars/omigeft/Chinese-Clinical-Terminology-Standardization-Task?style=social) |
+| [RVSC Medical Image Segmentation](https://github.com/omigeft/RVSC-Medical-Image-Segmentation) | Multiple approaches for completing RVSC. | ![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch) | ![Stars](https://img.shields.io/github/stars/omigeft/RVSC-Medical-Image-Segmentation?style=social) |
+| [EterPlan](https://github.com/omigeft/eterplan) | A WeChat miniprogram using Ebbinghaus's forgetting curve intelligence. | ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) ![](https://img.shields.io/badge/-WeChat-07C160?style=flat&logo=wechat) | ![Stars](https://img.shields.io/github/stars/omigeft/eterplan?style=social) |
 
 I also have some more projects under development.
 
