@@ -1,6 +1,6 @@
 ### About me 🤔
 
-I major in Artificial Intelligence in Northwestern Polytechnical University, China.
+I major in Artificial Intelligence in Northwestern Polytechnical University, China. And my research interest is AI model compression and deployment.
 
 ### Projects 🔭
 
