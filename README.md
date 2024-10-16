@@ -1,6 +1,6 @@
 ### About me 🤔
 
-I major in Artificial Intelligence in Northwestern Polytechnical University, China. And my recent research interest is `AI model compression and deployment`. I also have some experience in `motion planning` and `large language models`. 
+I major in Artificial Intelligence in Northwestern Polytechnical University, China. And my recent research interest is `AI model compression and deployment`. I also have some experience in `motion planning`, `large language models`, and other areas of AI.
 
 ### Projects 🔭
 
