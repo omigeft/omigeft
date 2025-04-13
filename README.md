@@ -14,7 +14,7 @@ I major in Artificial Intelligence in Northwestern Polytechnical University, Chi
 | [EterPlan](https://github.com/omigeft/eterplan) | A WeChat miniprogram using Ebbinghaus's forgetting curve intelligence to help users learn and memorize. | <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/-WeChat-07C160?style=flat&logo=wechat&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/omigeft/eterplan?style=social) |
 | [Network Sniffer](https://github.com/omigeft/network-sniffer) | A simple network sniffer (packet capture and analysis) tool developed with PyQt5. | <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/omigeft/network-sniffer?style=social) |
 
-### Repositories as the non-first contributor 🤝
+### Repositories as a non-first contributor 🤝
 
 | Project | Description | Technologies | Stars |
 |---------|-------------|------------|-------|
