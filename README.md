@@ -19,6 +19,7 @@ I major in Artificial Intelligence in Northwestern Polytechnical University, Chi
 | Project | Description | Technologies | Stars |
 |---------|-------------|------------|-------|
 | [ROS Motion Planning](https://github.com/ai-winter/ros_motion_planning) | Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation. | ![](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) ![](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros) | ![Stars](https://img.shields.io/github/stars/ai-winter/ros_motion_planning?style=social) |
+| [AirVLN](https://github.com/AirVLN/AirVLN) | AerialVLN: Vision-and-Language Navigation for UAVs. | <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=yellow"/> | ![Stars](https://img.shields.io/github/stars/AirVLN/AirVLN?style=social) |
 
 I also have some more projects under development.
 
