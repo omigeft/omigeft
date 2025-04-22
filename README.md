@@ -4,7 +4,7 @@ I major in Artificial Intelligence in Northwestern Polytechnical University, Chi
 
 ### Repositories as the first contributor 🚀
 
-| Project | Description | Technologies | Stars |
+| Repository | Description | Technologies | Stars |
 |---------|-------------|------------|-------|
 | [Python Motion Planning](https://github.com/ai-winter/python_motion_planning) | Motion planning and Navigation of AGV/AMR：Python implementation. | <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow"/> | ![Stars](https://img.shields.io/github/stars/ai-winter/python_motion_planning?style=social) |
 | [ROS Motion Planning Visualizer (RMPV)](https://github.com/ai-winter/ros_motion_planning_visualizer) | A Rviz Plugin used in path visualization and curve generation. | ![](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) ![](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros) <img src="https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/ai-winter/ros_motion_planning_visualizer?style=social) |
@@ -16,7 +16,7 @@ I major in Artificial Intelligence in Northwestern Polytechnical University, Chi
 
 ### Repositories as a non-first contributor 🤝
 
-| Project | Description | Technologies | Stars |
+| Repository | Description | Technologies | Stars |
 |---------|-------------|------------|-------|
 | [ROS Motion Planning](https://github.com/ai-winter/ros_motion_planning) | Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation. | ![](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) ![](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros) | ![Stars](https://img.shields.io/github/stars/ai-winter/ros_motion_planning?style=social) |
 | [AirVLN](https://github.com/AirVLN/AirVLN) | AerialVLN: Vision-and-Language Navigation for UAVs. | <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=yellow"/> | ![Stars](https://img.shields.io/github/stars/AirVLN/AirVLN?style=social) |
