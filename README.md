@@ -1,6 +1,6 @@
 ### About me 🤔
 
-I am a master's student majoring in computer technology in Northwestern Polytechnical University, China. And my recent research interest is `Embodied AI`.
+I am pursuing a Master's degree in Computer Technology at Northwestern Polytechnical University. And my recent research interest is `Embodied AI`.
 
 ### Repositories as the first contributor 🚀
 
